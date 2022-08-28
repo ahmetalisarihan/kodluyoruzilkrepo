@@ -26,7 +26,7 @@ tartışmak için bir konu açınız.
 
 ## Images
 
-![Images](C:\Users\Workstations\Desktop\kodluyoruzilkrepo-main\img/repo.png)
+![Images](\img/repo.png)
 
 ---
 
