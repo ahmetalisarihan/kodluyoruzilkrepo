@@ -26,7 +26,7 @@ tartışmak için bir konu açınız.
 
 ## Images
 
-![Images](\img/repo.png)
+![Images](https://github.com/ahmetalisarihan/kodluyoruzilkrepo-main/blob/master/img/repo.png)
 
 ---
 
